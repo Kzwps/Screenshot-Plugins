@@ -71,7 +71,7 @@ Agregar en enlace discord si quieres ver la screenshot en Discord
    
 luego de eso necesitas reiniciar el IW4admin.
 
-## Launching  
+##  Ejecute los siguientes comandos en un cliente SSH (PuTTY)
 Con las Instalaciones realizada anteriormente se necesita Ejeucutar en el putty los comando y Ejecutarlo 
 
 ```console
@@ -192,7 +192,7 @@ Add a Discord link if you want to view the screenshot on Discord:
 
 After that, you need to restart IW4admin.
 
-## Launching
+## Execute the following commands on an SSH client (PuTTY)
 With the installations done previously, you need to run the commands in Putty and execute it:
 
 ```console
